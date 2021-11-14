@@ -1,4 +1,4 @@
-Header header
+std_msgs/Header header
 
 # A list of joint names, corresponding to their names in the Nao docs.
 # This must either have the same length as joint_angles or 

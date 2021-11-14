@@ -1,4 +1,4 @@
 #Message to fade leds
 string led_name
 std_msgs/ColorRGBA color
-duration fade_duration
+builtin_interfaces/Duration fade_duration

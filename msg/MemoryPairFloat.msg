@@ -1,2 +1,2 @@
-string memoryKey
+string memory_key
 float32 data

@@ -10,5 +10,5 @@ uint8 LEFT_BACK=3
 uint8 LEFT_LEFT=4
 uint8 LEFT_RIGHT=5
 
-uint8 stateReleased=0
-uint8 statePressed=1
+uint8 STATE_RELEASED=0
+uint8 STATE_PRESSED=1
