@@ -26,5 +26,6 @@
 
   <export>
     <build_type>ament_cmake</build_type>
+    <ros1_bridge mapping_rules="naoqi_bridge_msgs.yaml"/>
   </export>
 </package>
